@@ -21,9 +21,13 @@ Libraries:
 Usage
 -----
 Serial:
-`$ python lattice-serial.py`
+```
+$ python lattice-serial.py
+```
 Parallel:
-`$ mpirun -n <number of processes> python lattice-parallel.py`
+```
+$ mpirun -n <number of processes> python lattice-parallel.py
+```
 
 References
 ----------
