@@ -10,6 +10,7 @@ Here is a prallel implementation of the Lattice Gas Cellular Automata. The seria
 Requirements
 ------------
 Language: Python
+
 Libraries: 
 * mpi4py
 * numpy
